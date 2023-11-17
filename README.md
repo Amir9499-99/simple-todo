@@ -38,3 +38,20 @@ This React to-do app is a basic project created for learning and practicing Reac
 ## 2. Toggle Completion:
 
 - Click the checkbox next to a todo item to toggle its completion status.
+
+## Folder Structure
+
+react-todo-app/
+|-- src/
+|   |-- components/
+|       |-- TodoList.js
+|       |-- TodoItem.js
+|       |-- AddTodoForm.js
+|-- App.js
+|-- index.js
+|-- ...
+The project follows a simple folder structure, separating components for better organization.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvement or new features, feel free to open an issue or submit a pull request.
